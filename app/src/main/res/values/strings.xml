@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supplicant Patcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruction">This application will update Wi-Fi service on your system partition so that it can give more instant response using Wi-Fi Direct. This device should be rooted before using it.</string>
+    <string name="btn_update">Update</string>
+
+</resources>
